@@ -83,7 +83,7 @@ a:link,
 a:active,
 a:visited,
 a:hover {
-    color: rgba(117, 137, 12, 0.75);
+    color: rgba(255, 215, 0, 0.75);
     text-decoration: none;
 }
 
@@ -132,7 +132,7 @@ code {
 }
 
 abbr {
-    color: rgba(117, 137, 12, 0.85);
+    color: rgba(255, 215, 0, 0.85);
     text-shadow: 0 0 2px rgba(0,0,0,1), 0 0 2px rgba(0,0,0,1);
     text-decoration: none;
     cursor: help;
@@ -223,7 +223,7 @@ footer > a {
     animation: anim-rotate 2s infinite linear;
     margin-right: 1rem;
     display: inline-block;
-    color: rgba(117, 137, 12, 1);
+    color: rgba(255, 215, 0, 1);
 }
 
 @keyframes anim-rotate {
@@ -411,7 +411,7 @@ footer > a {
 }
 
 .main > .main-left > .nav > .slide > .slide-menu.active > li:hover {
-    background: rgba(117, 137, 12, 0.45) !important;
+    background: rgba(255, 215, 0, 0.45) !important;
     border-top: 1px solid rgba(129, 140, 72, 0.45);
 }
 
@@ -584,7 +584,7 @@ table > tbody > tr:nth-last-child(1) {
 #conns > div > div,
 #memtotal > div > div {
     height: 100% !important;
-    background-color: rgba(117, 137, 12, 0.75) !important;
+    background-color: rgba(255, 215, 0, 0.75) !important;
 }
 
 #swaptotal > div > div > div,
@@ -767,8 +767,8 @@ form.inline + form.inline,
 .tabs > li[class~="active"],
 .tabs > li:hover {
     cursor: pointer;
-    border-bottom: 0.2rem solid rgba(117, 137, 12, 0.75);
-    color: rgba(117, 137, 12, 0.9);
+    border-bottom: 0.2rem solid rgba(255, 215, 0, 0.75);
+    color: rgba(255, 215, 0, 0.9);
 }
 
 .tabs > li[class~="active"] > a {
@@ -776,7 +776,7 @@ form.inline + form.inline,
 }
 
 .tabs > li:hover {
-    border-bottom: 0.18751rem solid rgba(117, 137, 12, 0.5);
+    border-bottom: 0.18751rem solid rgba(255, 215, 0, 0.5);
 }
 
 .cbi-tabmenu > li:hover {
@@ -784,7 +784,7 @@ form.inline + form.inline,
 }
 
 .cbi-tabmenu > li[class~="cbi-tab"] {
-    border-bottom: 2px solid rgba(117, 137, 12, 0.85);
+    border-bottom: 2px solid rgba(255, 215, 0, 0.85);
 }
 
 .cbi-tabmenu > li[class~="cbi-tab"] > a {
@@ -822,7 +822,7 @@ form.inline + form.inline,
 
 .cbi-value-helpicon:before {
     font-family: 'icomoon';
-    color: rgba(117, 137, 12, 0.5);
+    color: rgba(255, 215, 0, 0.5);
     content: "\f059";
 }
 
@@ -967,7 +967,7 @@ td > .ifacebadge {
     animation: anim-rotate 2s infinite linear;
     margin-right: 1rem;
     display: inline-block;
-    color: rgba(117, 137, 12, 1);
+    color: rgba(255, 215, 0, 1);
 }
 
 .uci-change-list {
@@ -980,7 +980,7 @@ td > .ifacebadge {
 .uci-change-list ins,
 .uci-change-legend-label ins {
     text-decoration: none;
-    border: 1px solid rgba(117, 137, 12, 0.75);
+    border: 1px solid rgba(255, 215, 0, 0.75);
     background-color: #505a18;
     display: block;
     padding: 2px;

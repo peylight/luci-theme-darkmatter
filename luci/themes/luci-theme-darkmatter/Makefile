@@ -22,7 +22,7 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=Darkmatter Theme
+LUCI_TITLE:=Darkmatter Theme - Gold
 LUCI_DEPENDS:=
 
 include ../../luci.mk
